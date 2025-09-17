@@ -21,12 +21,12 @@ Most Recent
 -----------
 
 
-  * [`24.0.2-24.32`, `24-latest` (*24-latest/Dockerfile)*][46]
-  * [`22.0.2-22.32`, `22-latest` (*22-latest/Dockerfile)*][78]
-  * [`21.0.8-21.44`, `21-latest` (*21-latest/Dockerfile)*][92]
-  * [`17.0.16-17.60`, `17-latest` (*17-latest/Dockerfile)*][169]
-  * [`11.0.28-11.82`, `11-latest` (*11-latest/Dockerfile)*][302]
-  * [`8u462-8.88`, `8-latest` (*8-latest/Dockerfile)*][377]
+  * [`25.0.0-25.28`, `25-latest` (*25-latest/Dockerfile)*][50]
+  * [`22.0.2-22.32`, `22-latest` (*22-latest/Dockerfile)*][88]
+  * [`21.0.8-21.44`, `21-latest` (*21-latest/Dockerfile)*][102]
+  * [`17.0.16-17.60`, `17-latest` (*17-latest/Dockerfile)*][179]
+  * [`11.0.28-11.82`, `11-latest` (*11-latest/Dockerfile)*][312]
+  * [`8u462-8.88`, `8-latest` (*8-latest/Dockerfile)*][387]
 
 Previous
 --------
@@ -34,25 +34,27 @@ Previous
 Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previous update releases of OpenJDK are as follows:
 
 
-  *[24-jre-headless-latest][11],
-  [24.0.0-24.28-jre-headless][50],
-  [24.0.1-24.30-jre-headless][55],
+  *[25-jre-headless-latest][11],
+  [25.0.0-25.28-jre-headless][53],
   
+  *[24-jre-headless-latest][12],
+  [24.0.0-24.28-jre-headless][60],
+  [24.0.1-24.30-jre-headless][65],
   
-  *[23-jre-headless-latest][12],
-  [23.0.0-23.28-jre-headless][67],
-  [23.0.1-23.30-jre-headless][69],
   
+  *[23-jre-headless-latest][13],
+  [23.0.0-23.28-jre-headless][77],
+  [23.0.1-23.30-jre-headless][79],
   
-  *[22-jre-headless-latest][13],
-  [22.0.0-22.28-jre-headless][79],
-  [22.0.1-22.30-jre-headless][85],
   
+  *[22-jre-headless-latest][14],
+  [22.0.0-22.28-jre-headless][89],
+  [22.0.1-22.30-jre-headless][95],
   
-  *[21-jre-headless-latest][14],
-  [21.0.0-21.28.85-jre-headless][93],
-  [21.0.1-21.30-jre-headless][99],
   
+  *[21-jre-headless-latest][15],
+  [21.0.0-21.28.85-jre-headless][103],
+  [21.0.1-21.30-jre-headless][109],
   
   
   
@@ -61,25 +63,25 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[20-jre-headless-latest][15],
-  [20.0.0-20.28.85-jre-headless][141],
-  [20.0.1-20.30.11-jre-headless][143],
   
+  *[20-jre-headless-latest][16],
+  [20.0.0-20.28.85-jre-headless][151],
+  [20.0.1-20.30.11-jre-headless][153],
   
-  *[19-jre-headless-latest][16],
-  [19.0.0-19.28.81-jre-headless][149],
-  [19.0.1-19.30.11-jre-headless][153],
   
+  *[19-jre-headless-latest][17],
+  [19.0.0-19.28.81-jre-headless][159],
+  [19.0.1-19.30.11-jre-headless][163],
   
-  *[18-jre-headless-latest][17],
-  [18.0.1-18.30.11-jre-headless][160],
-  [18.0.2.1-18.32.13-jre-headless][164],
   
+  *[18-jre-headless-latest][18],
+  [18.0.1-18.30.11-jre-headless][170],
+  [18.0.2.1-18.32.13-jre-headless][174],
   
-  *[17-jre-headless-latest][18],
-  [17.0.0-17.28.13-jre-headless][170],
-  [17.0.1-17.30.15-jre-headless][175],
   
+  *[17-jre-headless-latest][19],
+  [17.0.0-17.28.13-jre-headless][180],
+  [17.0.1-17.30.15-jre-headless][185],
   
   
   
@@ -98,22 +100,22 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[15-jre-headless-latest][19],
-  [15.0.7-15.40.19-jre-headless][261],
-  [15.0.8-15.42.15-jre-headless][265],
   
+  *[15-jre-headless-latest][20],
+  [15.0.7-15.40.19-jre-headless][271],
+  [15.0.8-15.42.15-jre-headless][275],
   
   
-  *[13-jre-headless-latest][20],
-  [13.0.11-13.48.19-jre-headless][287],
-  [13.0.12-13.50.15-jre-headless][291],
   
+  *[13-jre-headless-latest][21],
+  [13.0.11-13.48.19-jre-headless][297],
+  [13.0.12-13.50.15-jre-headless][301],
   
   
-  *[11-jre-headless-latest][21],
-  [11.0.15-11.56.19-jre-headless][319],
-  [11.0.16.1-11.58.23-jre-headless][321],
   
+  *[11-jre-headless-latest][22],
+  [11.0.15-11.56.19-jre-headless][329],
+  [11.0.16.1-11.58.23-jre-headless][331],
   
   
   
@@ -129,10 +131,10 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[8-jre-headless-latest][22],
-  [8u332-8.62.0.19-jre-headless][415],
-  [8u342-8.64.0.15-jre-headless][419],
   
+  *[8-jre-headless-latest][23],
+  [8u332-8.62.0.19-jre-headless][425],
+  [8u342-8.64.0.15-jre-headless][429],
   
   
   
@@ -148,66 +150,70 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[24-jre-crac-latest][23],
-  [24.0.0-24.28-jre-crac][48],
-  [24.0.1-24.30-jre-crac][53],
   
+  *[25-jre-crac-latest][24],
+  [25.0.0-25.28-jre-crac][54],
   
-  *[24-jdk-crac-latest][24],
-  [24.0.0-24.28-jdk-crac][51],
-  [24.0.1-24.30-jdk-crac][54],
+  *[25-jdk-crac-latest][25],
+  [25.0.0-25.28-jdk-crac][55],
   
+  *[24-jre-crac-latest][26],
+  [24.0.0-24.28-jre-crac][58],
+  [24.0.1-24.30-jre-crac][63],
   
-  *[23-jre-crac-latest][25],
-  [23.0.0-23.28-jre-crac][64],
-  [23.0.1-23.30-jre-crac][70],
   
+  *[24-jdk-crac-latest][27],
+  [24.0.0-24.28-jdk-crac][61],
+  [24.0.1-24.30-jdk-crac][64],
   
-  *[23-jdk-crac-latest][26],
-  [23.0.0-23.28-jdk-crac][66],
-  [23.0.1-23.30-jdk-crac][72],
   
+  *[23-jre-crac-latest][28],
+  [23.0.0-23.28-jre-crac][74],
+  [23.0.1-23.30-jre-crac][80],
   
-  *[22-jre-crac-latest][27],
-  [22.0.2-22.32-jre-crac][87],
   
-  *[22-jdk-crac-latest][28],
-  [22.0.0-22.28-jdk-crac][81],
-  [22.0.1-22.30-jdk-crac][84],
+  *[23-jdk-crac-latest][29],
+  [23.0.0-23.28-jdk-crac][76],
+  [23.0.1-23.30-jdk-crac][82],
   
   
-  *[21-jre-crac-latest][29],
-  [21.0.4-21.36-jre-crac][117],
-  [21.0.5-21.38-jre-crac][119],
+  *[22-jre-crac-latest][30],
+  [22.0.2-22.32-jre-crac][97],
   
+  *[22-jdk-crac-latest][31],
+  [22.0.0-22.28-jdk-crac][91],
+  [22.0.1-22.30-jdk-crac][94],
   
   
+  *[21-jre-crac-latest][32],
+  [21.0.4-21.36-jre-crac][127],
+  [21.0.5-21.38-jre-crac][129],
   
-  *[21-jdk-crac-latest][30],
-  [21.0.0-21.28.89-jdk-crac][96],
-  [21.0.1-21.30-jdk-crac][98],
   
   
   
+  *[21-jdk-crac-latest][33],
+  [21.0.0-21.28.89-jdk-crac][106],
+  [21.0.1-21.30-jdk-crac][108],
   
   
   
   
   
   
-  *[17-jre-crac-latest][31],
-  [17.0.12-17.52-jre-crac][223],
-  [17.0.13-17.54-jre-crac][227],
   
   
   
+  *[17-jre-crac-latest][34],
+  [17.0.12-17.52-jre-crac][233],
+  [17.0.13-17.54-jre-crac][237],
   
-  *[17-jdk-crac-latest][32],
-  [17.0.8.1-17.44.55-jdk-crac][200],
-  [17.0.8-17.44.17-jdk-crac][204],
   
   
   
+  *[17-jdk-crac-latest][35],
+  [17.0.8.1-17.44.55-jdk-crac][210],
+  [17.0.8-17.44.17-jdk-crac][214],
   
   
   
@@ -215,55 +221,57 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[24-jre-latest][33],
-  [24.0.0-24.28-jre][49],
-  [24.0.1-24.30-jre][52],
   
   
-  *[23-jre-latest][34],
-  [23.0.0-23.28-jre][63],
-  [23.0.1-23.30-jre][71],
   
+  *[25-jre-latest][36],
+  [25.0.0-25.28-jre][51],
   
-  *[22-jre-latest][35],
-  [22.0.0-22.28-jre][82],
-  [22.0.1-22.30-jre][83],
+  *[24-jre-latest][37],
+  [24.0.0-24.28-jre][59],
+  [24.0.1-24.30-jre][62],
   
   
-  *[21-jre-latest][36],
-  [21.0.0-21.28.85-jre][95],
-  [21.0.1-21.30-jre][97],
+  *[23-jre-latest][38],
+  [23.0.0-23.28-jre][73],
+  [23.0.1-23.30-jre][81],
   
   
+  *[22-jre-latest][39],
+  [22.0.0-22.28-jre][92],
+  [22.0.1-22.30-jre][93],
   
   
+  *[21-jre-latest][40],
+  [21.0.0-21.28.85-jre][105],
+  [21.0.1-21.30-jre][107],
   
   
   
   
   
-  *[20-jre-latest][37],
-  [20.0.0-20.28.85-jre][140],
-  [20.0.1-20.30.11-jre][144],
   
   
-  *[19-jre-latest][38],
-  [19.0.0-19.28.81-jre][151],
-  [19.0.1-19.30.11-jre][152],
   
   
-  *[18-jre-latest][39],
-  [18.0.1-18.30.11-jre][162],
-  [18.0.2.1-18.32.13-jre][163],
+  *[20-jre-latest][41],
+  [20.0.0-20.28.85-jre][150],
+  [20.0.1-20.30.11-jre][154],
   
   
-  *[17-jre-latest][40],
-  [17.0.0-17.28.13-jre][172],
-  [17.0.1-17.30.15-jre][173],
+  *[19-jre-latest][42],
+  [19.0.0-19.28.81-jre][161],
+  [19.0.1-19.30.11-jre][162],
   
   
+  *[18-jre-latest][43],
+  [18.0.1-18.30.11-jre][172],
+  [18.0.2.1-18.32.13-jre][173],
   
   
+  *[17-jre-latest][44],
+  [17.0.0-17.28.13-jre][182],
+  [17.0.1-17.30.15-jre][183],
   
   
   
@@ -279,30 +287,30 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[16-jre-latest][41],
-  [16.0.0-16.28.11-jre][248],
-  [16.0.1-16.30.15-jre][249],
   
   
-  *[15-jre-latest][42],
-  [15.0.7-15.40.19-jre][260],
-  [15.0.8-15.42.15-jre][264],
   
   
+  *[16-jre-latest][45],
+  [16.0.0-16.28.11-jre][258],
+  [16.0.1-16.30.15-jre][259],
   
-  *[13-jre-latest][43],
-  [13.0.11-13.48.19-jre][288],
-  [13.0.12-13.50.15-jre][289],
   
+  *[15-jre-latest][46],
+  [15.0.7-15.40.19-jre][270],
+  [15.0.8-15.42.15-jre][274],
   
   
-  *[11-jre-latest][44],
-  [11.0.15-11.56.19-jre][318],
-  [11.0.16.1-11.58.23-jre][323],
   
+  *[13-jre-latest][47],
+  [13.0.11-13.48.19-jre][298],
+  [13.0.12-13.50.15-jre][299],
   
   
   
+  *[11-jre-latest][48],
+  [11.0.15-11.56.19-jre][328],
+  [11.0.16.1-11.58.23-jre][333],
   
   
   
@@ -315,13 +323,13 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[8-jre-latest][45],
-  [8u332-8.62.0.19-jre][416],
-  [8u342-8.64.0.15-jre][420],
   
   
   
   
+  *[8-jre-latest][49],
+  [8u332-8.62.0.19-jre][426],
+  [8u342-8.64.0.15-jre][430],
   
   
   
@@ -334,57 +342,59 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[24-latest][46],
-  [24.0.0-24.28][47],
-  [24.0.1-24.30][56],
   
   
-  *[23-latest][62],
-  [23.0.0-23.28][65],
-  [23.0.1-23.30][68],
   
   
-  *[22-latest][78],
-  [22.0.0-22.28][80],
-  [22.0.1-22.30][86],
+  *[25-latest][50],
+  [25.0.0-25.28][52],
   
+  *[24-latest][56],
+  [24.0.0-24.28][57],
+  [24.0.1-24.30][66],
   
-  *[21-latest][92],
-  [21.0.0-21.28.85][94],
-  [21.0.1-21.30][100],
   
+  *[23-latest][72],
+  [23.0.0-23.28][75],
+  [23.0.1-23.30][78],
   
   
+  *[22-latest][88],
+  [22.0.0-22.28][90],
+  [22.0.1-22.30][96],
   
   
+  *[21-latest][102],
+  [21.0.0-21.28.85][104],
+  [21.0.1-21.30][110],
   
   
   
   
-  *[20-latest][138],
-  [20.0.0-20.28.85][139],
-  [20.0.1-20.30.11][142],
   
   
-  *[19-latest][148],
-  [19.0.0-19.28.81][150],
-  [19.0.1-19.30.11][154],
   
   
   
-  *[18-latest][159],
-  [18.0.1-18.30.11][161],
-  [18.0.2.1-18.32.13][165],
+  *[20-latest][148],
+  [20.0.0-20.28.85][149],
+  [20.0.1-20.30.11][152],
   
   
-  *[17-latest][169],
-  [17.0.0-17.28.13][171],
-  [17.0.1-17.30.15][174],
+  *[19-latest][158],
+  [19.0.0-19.28.81][160],
+  [19.0.1-19.30.11][164],
   
   
   
+  *[18-latest][169],
+  [18.0.1-18.30.11][171],
+  [18.0.2.1-18.32.13][175],
   
   
+  *[17-latest][179],
+  [17.0.0-17.28.13][181],
+  [17.0.1-17.30.15][184],
   
   
   
@@ -399,35 +409,35 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[16-latest][246],
-  [16.0.0-16.28.11][247],
-  [16.0.2-16.32.15][250],
   
-  *[15-latest][252],
-  [15.0.1-15.28.13][253],
-  [15.0.1-15.28.51][254],
   
   
   
   
+  *[16-latest][256],
+  [16.0.0-16.28.11][257],
+  [16.0.2-16.32.15][260],
   
+  *[15-latest][262],
+  [15.0.1-15.28.13][263],
+  [15.0.1-15.28.51][264],
   
   
   
   
   
-  *[14-latest][272],
-  [14.0.1-14.28.21][273],
-  [14.0.2-14.29.23][274],
   
-  *[13-latest][275],
-  [13.0.1-13.28][276],
-  [13.0.2-13.29][277],
   
   
   
   
+  *[14-latest][282],
+  [14.0.1-14.28.21][283],
+  [14.0.2-14.29.23][284],
   
+  *[13-latest][285],
+  [13.0.1-13.28][286],
+  [13.0.2-13.29][287],
   
   
   
@@ -436,19 +446,19 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[12-latest][298],
-  [12.0.1-12.2][299],
-  [12.0.2-12.3][300],
   
   
-  *[11-latest][302],
-  [11.0.1-11.2][303],
-  [11.0.2-11.29][304],
   
   
   
+  *[12-latest][308],
+  [12.0.1-12.2][309],
+  [12.0.2-12.3][310],
   
   
+  *[11-latest][312],
+  [11.0.1-11.2][313],
+  [11.0.2-11.29][314],
   
   
   
@@ -475,24 +485,24 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[10-latest][369],
-  [10u01-10.2][370],
-  [10u02-10.3][371],
   
-  *[9-latest][372],
-  [9-ea][373],
-  [9u01-9.0.1.3][374],
   
   
   
-  *[8-latest][377],
-  [8u05-8.1.0.6][378],
-  [8u11-8.2.0.1][379],
   
+  *[10-latest][379],
+  [10u01-10.2][380],
+  [10u02-10.3][381],
   
+  *[9-latest][382],
+  [9-ea][383],
+  [9u01-9.0.1.3][384],
   
   
   
+  *[8-latest][387],
+  [8u05-8.1.0.6][388],
+  [8u11-8.2.0.1][389],
   
   
   
@@ -541,14 +551,14 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[7-latest][466],
-  [7u55-7.4.0.5][467],
-  [7u60-7.5.0.1][468],
   
   
   
   
   
+  *[7-latest][476],
+  [7u55-7.4.0.5][477],
+  [7u60-7.5.0.1][478],
   
   
   
@@ -580,9 +590,14 @@ Earlier Ubuntu Docker image tags(the most recent 3 tags) of Azul Zulu for previo
   
   
   
-  *[6-latest][504],
-  [6u49-6.4.0.6][505],
-  [6u53-6.5.0.2][506],
+  
+  
+  
+  
+  
+  *[6-latest][514],
+  [6u49-6.4.0.6][515],
+  [6u53-6.5.0.2][516],
   
   
   
@@ -623,25 +638,27 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   [10]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/LICENSE.txt
 
 
-  [11]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24-jre-headless-latest/Dockerfile
-  [50]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.0-24.28-jre-headless/Dockerfile
-  [55]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.1-24.30-jre-headless/Dockerfile
+  [11]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/25-jre-headless-latest/Dockerfile
+  [53]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/25.0.0-25.28-jre-headless/Dockerfile
   
+  [12]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24-jre-headless-latest/Dockerfile
+  [60]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.0-24.28-jre-headless/Dockerfile
+  [65]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.1-24.30-jre-headless/Dockerfile
   
-  [12]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23-jre-headless-latest/Dockerfile
-  [67]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.0-23.28-jre-headless/Dockerfile
-  [69]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.1-23.30-jre-headless/Dockerfile
   
+  [13]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23-jre-headless-latest/Dockerfile
+  [77]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.0-23.28-jre-headless/Dockerfile
+  [79]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.1-23.30-jre-headless/Dockerfile
   
-  [13]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22-jre-headless-latest/Dockerfile
-  [79]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.0-22.28-jre-headless/Dockerfile
-  [85]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.1-22.30-jre-headless/Dockerfile
   
+  [14]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22-jre-headless-latest/Dockerfile
+  [89]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.0-22.28-jre-headless/Dockerfile
+  [95]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.1-22.30-jre-headless/Dockerfile
   
-  [14]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21-jre-headless-latest/Dockerfile
-  [93]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.0-21.28.85-jre-headless/Dockerfile
-  [99]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.1-21.30-jre-headless/Dockerfile
   
+  [15]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21-jre-headless-latest/Dockerfile
+  [103]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.0-21.28.85-jre-headless/Dockerfile
+  [109]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.1-21.30-jre-headless/Dockerfile
   
   
   
@@ -650,25 +667,25 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [15]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20-jre-headless-latest/Dockerfile
-  [141]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.0-20.28.85-jre-headless/Dockerfile
-  [143]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.1-20.30.11-jre-headless/Dockerfile
   
+  [16]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20-jre-headless-latest/Dockerfile
+  [151]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.0-20.28.85-jre-headless/Dockerfile
+  [153]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.1-20.30.11-jre-headless/Dockerfile
   
-  [16]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19-jre-headless-latest/Dockerfile
-  [149]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.0-19.28.81-jre-headless/Dockerfile
-  [153]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.1-19.30.11-jre-headless/Dockerfile
   
+  [17]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19-jre-headless-latest/Dockerfile
+  [159]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.0-19.28.81-jre-headless/Dockerfile
+  [163]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.1-19.30.11-jre-headless/Dockerfile
   
-  [17]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18-jre-headless-latest/Dockerfile
-  [160]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.1-18.30.11-jre-headless/Dockerfile
-  [164]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.2.1-18.32.13-jre-headless/Dockerfile
   
+  [18]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18-jre-headless-latest/Dockerfile
+  [170]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.1-18.30.11-jre-headless/Dockerfile
+  [174]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.2.1-18.32.13-jre-headless/Dockerfile
   
-  [18]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17-jre-headless-latest/Dockerfile
-  [170]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.0-17.28.13-jre-headless/Dockerfile
-  [175]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.1-17.30.15-jre-headless/Dockerfile
   
+  [19]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17-jre-headless-latest/Dockerfile
+  [180]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.0-17.28.13-jre-headless/Dockerfile
+  [185]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.1-17.30.15-jre-headless/Dockerfile
   
   
   
@@ -687,22 +704,22 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [19]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15-jre-headless-latest/Dockerfile
-  [261]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.7-15.40.19-jre-headless/Dockerfile
-  [265]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.8-15.42.15-jre-headless/Dockerfile
   
+  [20]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15-jre-headless-latest/Dockerfile
+  [271]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.7-15.40.19-jre-headless/Dockerfile
+  [275]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.8-15.42.15-jre-headless/Dockerfile
   
   
-  [20]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13-jre-headless-latest/Dockerfile
-  [287]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.11-13.48.19-jre-headless/Dockerfile
-  [291]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.12-13.50.15-jre-headless/Dockerfile
   
+  [21]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13-jre-headless-latest/Dockerfile
+  [297]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.11-13.48.19-jre-headless/Dockerfile
+  [301]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.12-13.50.15-jre-headless/Dockerfile
   
   
-  [21]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11-jre-headless-latest/Dockerfile
-  [319]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.15-11.56.19-jre-headless/Dockerfile
-  [321]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.16.1-11.58.23-jre-headless/Dockerfile
   
+  [22]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11-jre-headless-latest/Dockerfile
+  [329]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.15-11.56.19-jre-headless/Dockerfile
+  [331]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.16.1-11.58.23-jre-headless/Dockerfile
   
   
   
@@ -718,10 +735,10 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [22]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8-jre-headless-latest/Dockerfile
-  [415]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u332-8.62.0.19-jre-headless/Dockerfile
-  [419]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u342-8.64.0.15-jre-headless/Dockerfile
   
+  [23]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8-jre-headless-latest/Dockerfile
+  [425]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u332-8.62.0.19-jre-headless/Dockerfile
+  [429]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u342-8.64.0.15-jre-headless/Dockerfile
   
   
   
@@ -737,66 +754,70 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [23]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24-jre-crac-latest/Dockerfile
-  [48]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.0-24.28-jre-crac/Dockerfile
-  [53]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.1-24.30-jre-crac/Dockerfile
   
+  [24]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/25-jre-crac-latest/Dockerfile
+  [54]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/25.0.0-25.28-jre-crac/Dockerfile
   
-  [24]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24-jdk-crac-latest/Dockerfile
-  [51]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.0-24.28-jdk-crac/Dockerfile
-  [54]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.1-24.30-jdk-crac/Dockerfile
+  [25]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/25-jdk-crac-latest/Dockerfile
+  [55]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/25.0.0-25.28-jdk-crac/Dockerfile
   
+  [26]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24-jre-crac-latest/Dockerfile
+  [58]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.0-24.28-jre-crac/Dockerfile
+  [63]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.1-24.30-jre-crac/Dockerfile
   
-  [25]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23-jre-crac-latest/Dockerfile
-  [64]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.0-23.28-jre-crac/Dockerfile
-  [70]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.1-23.30-jre-crac/Dockerfile
   
+  [27]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24-jdk-crac-latest/Dockerfile
+  [61]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.0-24.28-jdk-crac/Dockerfile
+  [64]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.1-24.30-jdk-crac/Dockerfile
   
-  [26]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23-jdk-crac-latest/Dockerfile
-  [66]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.0-23.28-jdk-crac/Dockerfile
-  [72]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.1-23.30-jdk-crac/Dockerfile
   
+  [28]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23-jre-crac-latest/Dockerfile
+  [74]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.0-23.28-jre-crac/Dockerfile
+  [80]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.1-23.30-jre-crac/Dockerfile
   
-  [27]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22-jre-crac-latest/Dockerfile
-  [87]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.2-22.32-jre-crac/Dockerfile
   
-  [28]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22-jdk-crac-latest/Dockerfile
-  [81]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.0-22.28-jdk-crac/Dockerfile
-  [84]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.1-22.30-jdk-crac/Dockerfile
+  [29]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23-jdk-crac-latest/Dockerfile
+  [76]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.0-23.28-jdk-crac/Dockerfile
+  [82]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.1-23.30-jdk-crac/Dockerfile
   
   
-  [29]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21-jre-crac-latest/Dockerfile
-  [117]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.4-21.36-jre-crac/Dockerfile
-  [119]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.5-21.38-jre-crac/Dockerfile
+  [30]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22-jre-crac-latest/Dockerfile
+  [97]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.2-22.32-jre-crac/Dockerfile
   
+  [31]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22-jdk-crac-latest/Dockerfile
+  [91]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.0-22.28-jdk-crac/Dockerfile
+  [94]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.1-22.30-jdk-crac/Dockerfile
   
   
+  [32]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21-jre-crac-latest/Dockerfile
+  [127]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.4-21.36-jre-crac/Dockerfile
+  [129]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.5-21.38-jre-crac/Dockerfile
   
-  [30]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21-jdk-crac-latest/Dockerfile
-  [96]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.0-21.28.89-jdk-crac/Dockerfile
-  [98]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.1-21.30-jdk-crac/Dockerfile
   
   
   
+  [33]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21-jdk-crac-latest/Dockerfile
+  [106]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.0-21.28.89-jdk-crac/Dockerfile
+  [108]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.1-21.30-jdk-crac/Dockerfile
   
   
   
   
   
   
-  [31]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17-jre-crac-latest/Dockerfile
-  [223]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.12-17.52-jre-crac/Dockerfile
-  [227]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.13-17.54-jre-crac/Dockerfile
   
   
   
+  [34]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17-jre-crac-latest/Dockerfile
+  [233]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.12-17.52-jre-crac/Dockerfile
+  [237]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.13-17.54-jre-crac/Dockerfile
   
-  [32]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17-jdk-crac-latest/Dockerfile
-  [200]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.8.1-17.44.55-jdk-crac/Dockerfile
-  [204]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.8-17.44.17-jdk-crac/Dockerfile
   
   
   
+  [35]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17-jdk-crac-latest/Dockerfile
+  [210]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.8.1-17.44.55-jdk-crac/Dockerfile
+  [214]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.8-17.44.17-jdk-crac/Dockerfile
   
   
   
@@ -804,55 +825,57 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [33]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24-jre-latest/Dockerfile
-  [49]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.0-24.28-jre/Dockerfile
-  [52]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.1-24.30-jre/Dockerfile
   
   
-  [34]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23-jre-latest/Dockerfile
-  [63]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.0-23.28-jre/Dockerfile
-  [71]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.1-23.30-jre/Dockerfile
   
+  [36]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/25-jre-latest/Dockerfile
+  [51]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/25.0.0-25.28-jre/Dockerfile
   
-  [35]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22-jre-latest/Dockerfile
-  [82]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.0-22.28-jre/Dockerfile
-  [83]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.1-22.30-jre/Dockerfile
+  [37]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24-jre-latest/Dockerfile
+  [59]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.0-24.28-jre/Dockerfile
+  [62]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.1-24.30-jre/Dockerfile
   
   
-  [36]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21-jre-latest/Dockerfile
-  [95]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.0-21.28.85-jre/Dockerfile
-  [97]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.1-21.30-jre/Dockerfile
+  [38]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23-jre-latest/Dockerfile
+  [73]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.0-23.28-jre/Dockerfile
+  [81]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.1-23.30-jre/Dockerfile
   
   
+  [39]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22-jre-latest/Dockerfile
+  [92]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.0-22.28-jre/Dockerfile
+  [93]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.1-22.30-jre/Dockerfile
   
   
+  [40]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21-jre-latest/Dockerfile
+  [105]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.0-21.28.85-jre/Dockerfile
+  [107]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.1-21.30-jre/Dockerfile
   
   
   
   
   
-  [37]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20-jre-latest/Dockerfile
-  [140]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.0-20.28.85-jre/Dockerfile
-  [144]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.1-20.30.11-jre/Dockerfile
   
   
-  [38]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19-jre-latest/Dockerfile
-  [151]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.0-19.28.81-jre/Dockerfile
-  [152]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.1-19.30.11-jre/Dockerfile
   
   
-  [39]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18-jre-latest/Dockerfile
-  [162]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.1-18.30.11-jre/Dockerfile
-  [163]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.2.1-18.32.13-jre/Dockerfile
+  [41]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20-jre-latest/Dockerfile
+  [150]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.0-20.28.85-jre/Dockerfile
+  [154]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.1-20.30.11-jre/Dockerfile
   
   
-  [40]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17-jre-latest/Dockerfile
-  [172]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.0-17.28.13-jre/Dockerfile
-  [173]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.1-17.30.15-jre/Dockerfile
+  [42]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19-jre-latest/Dockerfile
+  [161]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.0-19.28.81-jre/Dockerfile
+  [162]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.1-19.30.11-jre/Dockerfile
   
   
+  [43]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18-jre-latest/Dockerfile
+  [172]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.1-18.30.11-jre/Dockerfile
+  [173]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.2.1-18.32.13-jre/Dockerfile
   
   
+  [44]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17-jre-latest/Dockerfile
+  [182]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.0-17.28.13-jre/Dockerfile
+  [183]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.1-17.30.15-jre/Dockerfile
   
   
   
@@ -868,30 +891,30 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [41]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16-jre-latest/Dockerfile
-  [248]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16.0.0-16.28.11-jre/Dockerfile
-  [249]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16.0.1-16.30.15-jre/Dockerfile
   
   
-  [42]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15-jre-latest/Dockerfile
-  [260]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.7-15.40.19-jre/Dockerfile
-  [264]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.8-15.42.15-jre/Dockerfile
   
   
+  [45]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16-jre-latest/Dockerfile
+  [258]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16.0.0-16.28.11-jre/Dockerfile
+  [259]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16.0.1-16.30.15-jre/Dockerfile
   
-  [43]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13-jre-latest/Dockerfile
-  [288]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.11-13.48.19-jre/Dockerfile
-  [289]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.12-13.50.15-jre/Dockerfile
   
+  [46]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15-jre-latest/Dockerfile
+  [270]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.7-15.40.19-jre/Dockerfile
+  [274]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.8-15.42.15-jre/Dockerfile
   
   
-  [44]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11-jre-latest/Dockerfile
-  [318]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.15-11.56.19-jre/Dockerfile
-  [323]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.16.1-11.58.23-jre/Dockerfile
   
+  [47]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13-jre-latest/Dockerfile
+  [298]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.11-13.48.19-jre/Dockerfile
+  [299]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.12-13.50.15-jre/Dockerfile
   
   
   
+  [48]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11-jre-latest/Dockerfile
+  [328]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.15-11.56.19-jre/Dockerfile
+  [333]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.16.1-11.58.23-jre/Dockerfile
   
   
   
@@ -904,13 +927,13 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [45]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8-jre-latest/Dockerfile
-  [416]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u332-8.62.0.19-jre/Dockerfile
-  [420]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u342-8.64.0.15-jre/Dockerfile
   
   
   
   
+  [49]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8-jre-latest/Dockerfile
+  [426]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u332-8.62.0.19-jre/Dockerfile
+  [430]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u342-8.64.0.15-jre/Dockerfile
   
   
   
@@ -923,57 +946,59 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [46]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24-latest/Dockerfile
-  [47]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.0-24.28/Dockerfile
-  [56]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.1-24.30/Dockerfile
   
   
-  [62]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23-latest/Dockerfile
-  [65]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.0-23.28/Dockerfile
-  [68]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.1-23.30/Dockerfile
   
   
-  [78]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22-latest/Dockerfile
-  [80]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.0-22.28/Dockerfile
-  [86]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.1-22.30/Dockerfile
+  [50]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/25-latest/Dockerfile
+  [52]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/25.0.0-25.28/Dockerfile
   
+  [56]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24-latest/Dockerfile
+  [57]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.0-24.28/Dockerfile
+  [66]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/24.0.1-24.30/Dockerfile
   
-  [92]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21-latest/Dockerfile
-  [94]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.0-21.28.85/Dockerfile
-  [100]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.1-21.30/Dockerfile
   
+  [72]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23-latest/Dockerfile
+  [75]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.0-23.28/Dockerfile
+  [78]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/23.0.1-23.30/Dockerfile
   
   
+  [88]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22-latest/Dockerfile
+  [90]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.0-22.28/Dockerfile
+  [96]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/22.0.1-22.30/Dockerfile
   
   
+  [102]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21-latest/Dockerfile
+  [104]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.0-21.28.85/Dockerfile
+  [110]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/21.0.1-21.30/Dockerfile
   
   
   
   
-  [138]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20-latest/Dockerfile
-  [139]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.0-20.28.85/Dockerfile
-  [142]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.1-20.30.11/Dockerfile
   
   
-  [148]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19-latest/Dockerfile
-  [150]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.0-19.28.81/Dockerfile
-  [154]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.1-19.30.11/Dockerfile
   
   
   
-  [159]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18-latest/Dockerfile
-  [161]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.1-18.30.11/Dockerfile
-  [165]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.2.1-18.32.13/Dockerfile
+  [148]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20-latest/Dockerfile
+  [149]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.0-20.28.85/Dockerfile
+  [152]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/20.0.1-20.30.11/Dockerfile
   
   
-  [169]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17-latest/Dockerfile
-  [171]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.0-17.28.13/Dockerfile
-  [174]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.1-17.30.15/Dockerfile
+  [158]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19-latest/Dockerfile
+  [160]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.0-19.28.81/Dockerfile
+  [164]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/19.0.1-19.30.11/Dockerfile
   
   
   
+  [169]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18-latest/Dockerfile
+  [171]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.1-18.30.11/Dockerfile
+  [175]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/18.0.2.1-18.32.13/Dockerfile
   
   
+  [179]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17-latest/Dockerfile
+  [181]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.0-17.28.13/Dockerfile
+  [184]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/17.0.1-17.30.15/Dockerfile
   
   
   
@@ -988,35 +1013,35 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [246]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16-latest/Dockerfile
-  [247]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16.0.0-16.28.11/Dockerfile
-  [250]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16.0.2-16.32.15/Dockerfile
   
-  [252]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15-latest/Dockerfile
-  [253]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.1-15.28.13/Dockerfile
-  [254]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.1-15.28.51/Dockerfile
   
   
   
   
+  [256]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16-latest/Dockerfile
+  [257]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16.0.0-16.28.11/Dockerfile
+  [260]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/16.0.2-16.32.15/Dockerfile
   
+  [262]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15-latest/Dockerfile
+  [263]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.1-15.28.13/Dockerfile
+  [264]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/15.0.1-15.28.51/Dockerfile
   
   
   
   
   
-  [272]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/14-latest/Dockerfile
-  [273]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/14.0.1-14.28.21/Dockerfile
-  [274]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/14.0.2-14.29.23/Dockerfile
   
-  [275]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13-latest/Dockerfile
-  [276]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.1-13.28/Dockerfile
-  [277]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.2-13.29/Dockerfile
   
   
   
   
+  [282]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/14-latest/Dockerfile
+  [283]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/14.0.1-14.28.21/Dockerfile
+  [284]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/14.0.2-14.29.23/Dockerfile
   
+  [285]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13-latest/Dockerfile
+  [286]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.1-13.28/Dockerfile
+  [287]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/13.0.2-13.29/Dockerfile
   
   
   
@@ -1025,19 +1050,19 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [298]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/12-latest/Dockerfile
-  [299]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/12.0.1-12.2/Dockerfile
-  [300]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/12.0.2-12.3/Dockerfile
   
   
-  [302]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11-latest/Dockerfile
-  [303]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.1-11.2/Dockerfile
-  [304]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.2-11.29/Dockerfile
   
   
   
+  [308]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/12-latest/Dockerfile
+  [309]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/12.0.1-12.2/Dockerfile
+  [310]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/12.0.2-12.3/Dockerfile
   
   
+  [312]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11-latest/Dockerfile
+  [313]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.1-11.2/Dockerfile
+  [314]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/11.0.2-11.29/Dockerfile
   
   
   
@@ -1064,24 +1089,24 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [369]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/10-latest/Dockerfile
-  [370]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/10u01-10.2/Dockerfile
-  [371]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/10u02-10.3/Dockerfile
   
-  [372]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/9-latest/Dockerfile
-  [373]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/9-ea/Dockerfile
-  [374]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/9u01-9.0.1.3/Dockerfile
   
   
   
-  [377]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8-latest/Dockerfile
-  [378]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u05-8.1.0.6/Dockerfile
-  [379]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u11-8.2.0.1/Dockerfile
   
+  [379]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/10-latest/Dockerfile
+  [380]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/10u01-10.2/Dockerfile
+  [381]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/10u02-10.3/Dockerfile
   
+  [382]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/9-latest/Dockerfile
+  [383]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/9-ea/Dockerfile
+  [384]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/9u01-9.0.1.3/Dockerfile
   
   
   
+  [387]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8-latest/Dockerfile
+  [388]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u05-8.1.0.6/Dockerfile
+  [389]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/8u11-8.2.0.1/Dockerfile
   
   
   
@@ -1130,14 +1155,14 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [466]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/7-latest/Dockerfile
-  [467]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/7u55-7.4.0.5/Dockerfile
-  [468]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/7u60-7.5.0.1/Dockerfile
   
   
   
   
   
+  [476]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/7-latest/Dockerfile
+  [477]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/7u55-7.4.0.5/Dockerfile
+  [478]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/7u60-7.5.0.1/Dockerfile
   
   
   
@@ -1169,9 +1194,14 @@ As for any pre-built image usage, it is the image user's responsibility to ensur
   
   
   
-  [504]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/6-latest/Dockerfile
-  [505]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/6u49-6.4.0.6/Dockerfile
-  [506]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/6u53-6.5.0.2/Dockerfile
+  
+  
+  
+  
+  
+  [514]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/6-latest/Dockerfile
+  [515]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/6u49-6.4.0.6/Dockerfile
+  [516]: https://github.com/zulu-openjdk/zulu-openjdk/blob/master/ubuntu/6u53-6.5.0.2/Dockerfile
   
   
   
